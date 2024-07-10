@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopal chandra Das</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand+SC&size=48&duration=2000&pause=300&color=GREEN&width=650&height=100&lines=Hi%2C+this+is+Gopal+Chandra+Das.;Follow+me+%E2%9D%A4%EF%B8%8F"><h1 align="center">Hi 👋, I'm Gopal chandra Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopal798das&label=Profile%20views&color=0e75b6&style=flat" alt="gopal798das" /> </p>
